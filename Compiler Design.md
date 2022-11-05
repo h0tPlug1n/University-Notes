@@ -136,8 +136,10 @@ A Lex program is separated into three sections by \%\% delimeters. The formal of
 {user subroutines}
 ```
 **Definitions** include declarations of constant, variable and regular definitions.
+
 **Rules** define the statement of form p1 {action1} p2 {action2}....pn {action}.
 - Where **pi** describes the regular expression and **action1** describes the actions what action the lexical analyzer should take when pattern pi matches a lexeme.
+
 **User subroutines** are auxiliary procedures needed by the actions. The subroutine can be loaded with the lexical analyzer and compiled separately.
 
 # Assignment / Exercise:
