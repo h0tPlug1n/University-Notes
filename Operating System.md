@@ -121,7 +121,7 @@ Distributed --> Three-tier
 ```
 **Diagram of Distributed OS**
 
-<img src="https://github.com/h0tPlug1n/Operating-System/blob/main/DistOS.png" height="300" width="500" />
+<img src="https://github.com/h0tPlug1n/University-Notes/blob/main/DistOS.png" height="300" width="500" />
 
 **What is Clustered OS ?**: In this OS, each individual computers having their own specific hardware peripherals are connected in a single network. E.g.: LAN
 
