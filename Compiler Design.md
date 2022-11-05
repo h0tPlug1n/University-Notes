@@ -88,6 +88,8 @@ flowchart LR
 Token --> Identifier & Keyword & Operator & Separator & Special_character & Constants
 ```
 
+**Error Handler:** A module that displays the error to the user which occured in the analysis phase of the compiler.
+
 -  **Syntax Analyzer:** Also known as the parser generates a Parse tree depending upon some Context-Free Grammar Production Rules. It takes the stream of tokens as inputs and gives the parse tree as output.
 ```mermaid
 graph TD
