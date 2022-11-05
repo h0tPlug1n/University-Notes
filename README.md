@@ -5,3 +5,4 @@
 - [Numerical Methods in C](https://github.com/h0tPlug1n/University-Notes/blob/main/Numerical-Methods-In-C.md)
 - [Java](https://github.com/h0tPlug1n/University-Notes/blob/main/Java.md)
 - [Design & Analysis of Algorithm in C](https://github.com/h0tPlug1n/University-Notes/blob/main/Algorithms%20in%20C.md)
+- [Computer Architecture](https://github.com/h0tPlug1n/University-Notes/blob/main/Computer-Architecture.md)
