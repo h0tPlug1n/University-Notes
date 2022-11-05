@@ -1,7 +1,7 @@
 # Numerical-Method-in-C
-![](https://github.com/h0tPlug1n/Numerical-Method-in-C/blob/main/Formulae.png)
+![](https://github.com/h0tPlug1n/University-Notes/blob/main/Formulae.png)
 # `Bisection Method`
-![](https://github.com/h0tPlug1n/Numerical-Method-in-C/blob/main/bisection.png)
+![](https://github.com/h0tPlug1n/University-Notes/blob/main/bisection.png)
 ```c
 #include<stdio.h>
 #include<math.h>
@@ -42,7 +42,7 @@ int main(){
 ```
 
 # `Regula Falsi Method`
-![](https://github.com/h0tPlug1n/Numerical-Method-in-C/blob/main/falseposition.png)
+![](https://github.com/h0tPlug1n/University-Notes/blob/main/falseposition.png)
 ```c
 #include<stdio.h>
 #include<math.h>
@@ -82,7 +82,7 @@ int main(){
 ```
 
 # `Newton-Raphson`
-![](https://github.com/h0tPlug1n/Numerical-Method-in-C/blob/main/newton-raphson.png)
+![](https://github.com/h0tPlug1n/University-Notes/blob/main/newton-raphson.png)
 ```c
 #include <stdio.h>
 #include <math.h>
@@ -114,7 +114,7 @@ int main(){
 ```
 
 # `Gauss Elimination`
-![](https://github.com/h0tPlug1n/Numerical-Method-in-C/blob/main/gauss_elimination_algo.png)
+![](https://github.com/h0tPlug1n/University-Notes/blob/main/gauss_elimination_algo.png)
 ```c
 // Gauss elimination method to solve the following equation
 
@@ -233,7 +233,7 @@ int main() {
 ```
 
 # `Trapezoidal Method`
-![](https://github.com/h0tPlug1n/Numerical-Method-in-C/blob/main/trapezoidal.png)
+![](https://github.com/h0tPlug1n/University-Notes/blob/main/trapezoidal.png)
 ```c
 /* Trapezoidal rule.*/
 #include <stdio.h>
@@ -258,7 +258,7 @@ int main()
 ```
 
 # `Gauss Jordan`
-![](https://github.com/h0tPlug1n/Numerical-Method-in-C/blob/main/Gauss_Jordan_algo.png)
+![](https://github.com/h0tPlug1n/University-Notes/blob/main/Gauss_Jordan_algo.png)
 ```c
 #include <stdio.h>
 #define N 3 
@@ -298,7 +298,7 @@ int main()
 # `Simpsons 1/3 Rule`
 - I = h/3[X + 2E + 4O] {I1=Integration_formuala, h=step_size, X=first_ordinate+last_ordinate, E=even_ordinates, O=odd_ordinate}
 - To calculate Error = Value_got_from_Integration - Value_got_from_simpsons_rule
-![](https://github.com/h0tPlug1n/Numerical-Method-in-C/blob/main/Simpson_algo.png)
+![](https://github.com/h0tPlug1n/University-Notes/blob/main/Simpson_algo.png)
 ```c
 #include<stdio.h>
 #include<math.>
@@ -325,7 +325,7 @@ int main(){
 ```
 
 # `Euler Method`
-![](https://github.com/h0tPlug1n/Numerical-Method-in-C/blob/main/euler%20method.png)
+![](https://github.com/h0tPlug1n/University-Notes/blob/main/euler%20method.png)
 - Formula: Yn = Yn-1 + h*f(Xn-1, Yn-1)
 ```c
 #include<stdio.h>
@@ -354,7 +354,7 @@ int main(){
 ```
 
 # `Runge-Kutta Method`
-![](https://github.com/h0tPlug1n/Numerical-Method-in-C/blob/main/RK_Method-algo.png)
+![](https://github.com/h0tPlug1n/University-Notes/blob/main/RK_Method-algo.png)
 ```c
 #include <stdio.h>
 #include <stdlib.h>
